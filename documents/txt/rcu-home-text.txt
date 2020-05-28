@@ -1,0 +1,69 @@
+RCU-HOME / index.html
+
+<Navigation>
+
+HOME
+ABOUT
+WORKS
+CONTACT
+
+<WORKS>
+
+WORKS
+これまでの制作事例を紹介
+
+GRAPHIC
+SIGNAGE / VR
+UI / UX
+
+VIEW MORE
+
+<NEWS>
+
+NEWS
+最新のイベントや更新情報
+
+Seminar
+2017.10.19
+VRセミナー"Make::VR"を11月10日（金）に開催します。
+
+Media
+2017.09.15
+DH MEDIAに弊社デザイナーが"サービスデザインUX"を寄稿いたしました。
+
+Recruit
+2017.09.01
+フロントエンジニア、サーバーサイドエンジニア、アプリエンジニアを募集しています。
+
+VIEW MORE
+
+<footer>
+
+HOME
+ABOUT
+WORKS
+CONTACT
+
+2F 21-23-1 Shibuya-ku,
+Tokyo, Japan, 150-0002
+150-0002 東京都渋谷区渋谷1丁目23-21
+渋谷キャスト2F
+
+(c)copyright RCU DESIGN Inc. All rights reserved.
+
+
+
+
+<title>RCU DESIGN</title>
+<meta name="description" content="RCU DESIGNは、クライアントの課題・希望に対し、責任を持って成果をだすため最適なデザイン・コンテンツを創造し続ける制作会社です。">
+<meta property="og:title" content="RCU DESIGN">
+<meta property="og:type" content="website">
+<meta property="og:url" content="#">
+<meta property="og:image" content="images/common/ogimage.png">
+<meta property="og:site_name" content="RCU DESIGN">
+<meta property="og:description" content="RCU DESIGNは、クライアントの課題・希望に対し、責任を持って成果をだすため最適なデザイン・コンテンツを創造し続ける制作会社です。">
+<meta name="format-detection" content="telephone=no">
+<link rel="apple-touch-icon" href="images/common/touch-icon.png">
+<link rel="shortcut icon" href="images/common/favicon.ico">
+
+

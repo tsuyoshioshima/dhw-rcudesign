@@ -1,0 +1,55 @@
+RCU-contact / contact.html
+
+<Navigation>
+
+HOME
+ABOUT
+WORKS
+CONTACT
+
+<contents>
+
+CONTACT
+
+お問い合わせ
+
+
+仕事のご依頼・ご相談はこちらから。
+
+
+
+お名前
+
+必須
+
+
+会社名
+
+
+メールアドレス
+
+
+お問い合わせ内容
+
+
+
+プライバシーポリシーに同意する
+
+
+確  認
+
+
+
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Contact | RCU DESIGN</title>
+ <meta name="description" content="クライアントの課題・希望に対し、責任を持って成果をだすため最適なデザイン・コンテンツを創造し続ける制作会社「RCU DESIGN」のお問い合わせページです。">
+ <meta property="og:title" content="RCU DESIGN">
+ <meta property="og:type" content="website">
+ <meta property="og:url" content="#">
+ <meta property="og:image" content="../images/common/ogimage.png">
+ <meta property="og:site_name" content="RCU DESIGN">
+ <meta property="og:description" content="クライアントの課題・希望に対し、責任を持って成果をだすため最適なデザイン・コンテンツを創造し続ける制作会社「RCU DESIGN」のお問い合わせページです。">
+ <meta name="format-detection" content="telephone=no">
+ <link rel="apple-touch-icon" href="../images/common/touch-icon.png">
+ <link rel="shortcut icon" href="../images/common/favicon.ico">

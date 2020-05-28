@@ -1,0 +1,100 @@
+RCU-about / about.html
+
+<Navigation>
+
+HOME
+ABOUT
+WORKS
+CONTACT
+
+<contents>
+
+ABOUT
+
+
+
+私たちは、クライアントの課題・希望に対し“責任”を持って成果をだすため最適なデザイン・コンテンツを“創造”します。
+
+
+
+Responsibility
+
+責任
+
+
+
+Creation
+
+創造
+
+
+
+User Experience
+
+ユーザー体験
+
+
+
+COMPANY
+
+企業情報
+
+
+
+社名
+
+株式会社RCU デザイン
+
+
+
+設立
+
+2017年05月
+
+
+
+住所
+
+〒150-0002 東京都渋谷区渋谷1-23-21 渋谷キャスト 2F
+
+
+
+電話
+
+0129-123-456
+
+メールアドレス
+
+info@rcu-design.com
+
+
+
+事業内容
+ウェブデザイン、インタラクティブデザイン、グラフィックデザイン
+
+
+
+ACCESS
+
+アクセス
+
+
+〒150-0002 東京都渋谷区渋谷1-23-21 渋谷キャスト 2F
+0129-123-456
+
+Google Maps
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About | RCU DESIGN</title>
+<meta name="description" content="クライアントの課題・希望に対し、責任を持って成果をだすため最適なデザイン・コンテンツを創造し続ける制作会社「RCU DESIGN」の会社概要について紹介しています。">
+<meta property="og:title" content="RCU DESIGN">
+<meta property="og:type" content="website">
+<meta property="og:url" content="#">
+<meta property="og:image" content="../images/common/ogimage.png">
+<meta property="og:site_name" content="RCU DESIGN">
+<meta property="og:description" content="クライアントの課題・希望に対し、責任を持って成果をだすため最適なデザイン・コンテンツを創造し続ける制作会社「RCU DESIGN」の会社概要について紹介しています。">
+<meta name="format-detection" content="telephone=no">
+<link rel="apple-touch-icon" href="../images/common/touch-icon.png">
+<link rel="shortcut icon" href="../images/common/favicon.ico">

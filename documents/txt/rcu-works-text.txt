@@ -1,0 +1,61 @@
+RCU-works / works.html
+
+<Navigation>
+
+HOME
+ABOUT
+WORKS
+CONTACT
+
+<contents>
+
+WORKS
+実績一覧
+
+
+All
+
+Graphic Design
+
+Signage/VR
+
+UI/UX
+
+
+
+8HOURS
+
+Graphic Design
+
+
+
+TEMP WAVE
+UI / UX Design
+
+
+
+GREEN ROOM
+
+UI / UX Design
+
+
+
+DOTS
+Signage / VR
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Works | RCU DESIGN</title>
+<meta name="description" content="クライアントの課題・希望に対し、責任を持って成果をだすため最適なデザイン・コンテンツを創造し続ける制作会社「RCU DESIGN」の制作実績について紹介しています。">
+<meta property="og:title" content="RCU DESIGN">
+<meta property="og:type" content="website">
+<meta property="og:url" content="#">
+<meta property="og:image" content="../images/common/ogimage.png">
+<meta property="og:site_name" content="RCU DESIGN">
+<meta property="og:description" content="クライアントの課題・希望に対し、責任を持って成果をだすため最適なデザイン・コンテンツを創造し続ける制作会社「RCU DESIGN」の制作実績について紹介しています。">
+<meta name="format-detection" content="telephone=no">
+<link rel="apple-touch-icon" href="../images/common/touch-icon.png">
+<link rel="shortcut icon" href="../images/common/favicon.ico">
